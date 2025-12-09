@@ -1,0 +1,7 @@
+{
+  "name": "UniConnect CMS",
+  "description": "A comprehensive college management system for Admins, Faculty, and Students featuring event management, repositories, social feeds, and clubs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
